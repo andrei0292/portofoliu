@@ -928,10 +928,10 @@ let MainComponent = /*@__PURE__*/ (() => {
                     m.fadeBuffer = false;
                     m.messages = [
                         'VISIOONWEBSITES',
-                        'BLACK FRIDAY',
-                        '-65% - SITE-URI',
-                        '-65% - PORTOFOLII',
-                        '-65% - LOGO'
+                        'WINTER SALE',
+                        '65% REDUCERE SITE-URI',
+                        '65% REDUCERE PORTOFOLII',
+                        '65% REDUCERE LOGO'
                     ];
                     setTimeout(m.animateIn, 0);
                 };
@@ -1149,7 +1149,7 @@ let BannerComponent = /*@__PURE__*/ (() => {
         }
     }
     BannerComponent.ɵfac = function BannerComponent_Factory(t) { return new (t || BannerComponent)(); };
-    BannerComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: BannerComponent, selectors: [["app-banner"]], decls: 42, vars: 0, consts: [[1, "body"], [1, "row"], [1, "col-md-6", "col-md-12", "text"], [1, "text-center", "titlu"], [1, "text-center"], [1, "text-center", 2, "color", "red", "font-weight", "800"], [1, "col-md-6", "col-md-12", "backButton"], ["routerLink", "/products", 1, "text-center"], [1, "body1"], [1, "col-md-6", "col-md-6", "video"], [1, "text-center", "subtitlu"], ["src", "https://www.youtube.com/embed/Z6WjjJ4krJk", "title", "YouTube video player", "frameborder", "0", "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", "allowfullscreen", ""], ["src", "https://www.youtube.com/embed/Q6H0FG8Hm3Y", "title", "YouTube video player", "frameborder", "0", "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", "allowfullscreen", ""], ["src", "https://www.youtube.com/embed/CfL8HKE_q90", "title", "YouTube video player", "frameborder", "0", "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", "allowfullscreen", ""], ["src", "https://www.youtube.com/embed/ohlfDL4rZvM", "title", "YouTube video player", "frameborder", "0", "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", "allowfullscreen", ""], ["src", "https://www.youtube.com/embed/LTpicUViQTA", "title", "YouTube video player", "frameborder", "0", "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", "allowfullscreen", ""]], template: function BannerComponent_Template(rf, ctx) {
+    BannerComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: BannerComponent, selectors: [["app-banner"]], decls: 38, vars: 0, consts: [[1, "body"], [1, "row"], [1, "col-md-6", "col-md-12", "text"], [1, "text-center", "titlu"], [1, "text-center"], [1, "col-md-6", "col-md-12", "backButton"], ["routerLink", "/products", 1, "text-center"], [1, "body1"], [1, "col-md-6", "col-md-6", "video"], [1, "text-center", "subtitlu"], ["src", "https://www.youtube.com/embed/Z6WjjJ4krJk", "title", "YouTube video player", "frameborder", "0", "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", "allowfullscreen", ""], ["src", "https://www.youtube.com/embed/Q6H0FG8Hm3Y", "title", "YouTube video player", "frameborder", "0", "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", "allowfullscreen", ""], ["src", "https://www.youtube.com/embed/CfL8HKE_q90", "title", "YouTube video player", "frameborder", "0", "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", "allowfullscreen", ""], ["src", "https://www.youtube.com/embed/ohlfDL4rZvM", "title", "YouTube video player", "frameborder", "0", "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", "allowfullscreen", ""], ["src", "https://www.youtube.com/embed/LTpicUViQTA", "title", "YouTube video player", "frameborder", "0", "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", "allowfullscreen", ""]], template: function BannerComponent_Template(rf, ctx) {
             if (rf & 1) {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
@@ -1163,57 +1163,51 @@ let BannerComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, " Vor fi livrate in format mp4");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "h2", 4);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, " Pret: ");
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "del");
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "30 Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, " Pret: 30 Euro ");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "p", 5);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "Black Friday -65% : 10.5 Euro");
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 6);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "a", 7);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, " \u00CEnapoi la produse");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 5);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "a", 6);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, " \u00CEnapoi la produse");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 8);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div", 1);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "div", 9);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "h1", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, "Anima\u021Bie Model 1");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div", 7);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 1);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "div", 8);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "h1", 9);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, "Anima\u021Bie Model 1");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "iframe", 10);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "div", 8);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "h1", 9);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, "Anima\u021Bie Model 2");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](23, "iframe", 11);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div", 9);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "h1", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](26, "Anima\u021Bie Model 2");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "iframe", 12);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div", 1);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "div", 8);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "h1", 9);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](27, "Anima\u021Bie Model 3");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](28, "iframe", 12);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "div", 1);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 9);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "h1", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](31, "Anima\u021Bie Model 3");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 8);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "h1", 9);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](31, "Anima\u021Bie Model 4");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](32, "iframe", 13);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "div", 9);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "h1", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](35, "Anima\u021Bie Model 4");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](36, "iframe", 14);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "div", 1);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "div", 8);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "h1", 9);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](36, "Anima\u021Bie Model 5");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "div", 1);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "div", 9);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "h1", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](40, "Anima\u021Bie Model 5");
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](41, "iframe", 15);
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](37, "iframe", 14);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1736,7 +1730,7 @@ let LogoComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "p", 4);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "Black Friday -65% : De la 175 de Lei");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "Winter Sale -65% : De la 175 de Lei");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 5);
@@ -2051,7 +2045,7 @@ let PortofoliuComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "p", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "Black Friday -65% : De la 52 de Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "Winter Sale -65% : De la 52 de Euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "button");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "a", 11);
@@ -2092,7 +2086,7 @@ let PortofoliuComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "p", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, "Black Friday -65% : De la 105 de Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, "Winter Sale -65% : De la 105 de Euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "p", 9);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](48, "Pentru func\u021Bii suplimentare pre\u021Bul se negociaz\u0103");
@@ -2167,7 +2161,7 @@ let SiteDePrezentareComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "p", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "Black Friday -65% : De la 105 de Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "Winter Sale -65% : De la 105 de Euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "button");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "a", 11);
@@ -2205,7 +2199,7 @@ let SiteDePrezentareComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "p", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "Black Friday -65% : De la 175 de Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "Winter Sale -65% : De la 175 de Euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "p", 9);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, "Pentru func\u021Bii suplimentare pre\u021Bul se negociaz\u0103");
