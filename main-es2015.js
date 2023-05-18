@@ -928,10 +928,10 @@ let MainComponent = /*@__PURE__*/ (() => {
                     m.fadeBuffer = false;
                     m.messages = [
                         'VISIOONWEBSITES',
-                        'WINTER SALE',
-                        '65% REDUCERE SITE-URI',
-                        '65% REDUCERE PORTOFOLII',
-                        '65% REDUCERE LOGO'
+                        'M(A)y SALE',
+                        '50% DISCOUNT SITE-URI',
+                        '50% DISCOUNT PORTOFOLII',
+                        '50% DISCOUNT LOGO'
                     ];
                     setTimeout(m.animateIn, 0);
                 };
@@ -1726,11 +1726,11 @@ let LogoComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "h2", 3);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, " Pret: ");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "del");
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "500 de lei");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "100 de euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "p", 4);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "Winter Sale -65% : De la 175 de Lei");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "M(A)Y Sale -50% : De la 50 de euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 5);
@@ -2041,11 +2041,11 @@ let PortofoliuComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "p", 9);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, "Pre\u021B: ");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "del");
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "la 150 de Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "la 200 de Euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "p", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "Winter Sale -65% : De la 52 de Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "M(A)y Sale -50% : De la 100 de Euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "button");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "a", 11);
@@ -2082,11 +2082,11 @@ let PortofoliuComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "p", 9);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, "Pre\u021B: ");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "del");
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "De la 300 de Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "De la 350 de Euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "p", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, "Winter Sale -65% : De la 105 de Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, "M(A)y Sale -50% : De la 175 de Euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "p", 9);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](48, "Pentru func\u021Bii suplimentare pre\u021Bul se negociaz\u0103");
@@ -2157,11 +2157,11 @@ let SiteDePrezentareComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "p", 9);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, "Pre\u021B: ");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "del");
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "300 de Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "350 de Euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "p", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "Winter Sale -65% : De la 105 de Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "M(A)y Sale -50% : De la 175 de Euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "button");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "a", 11);
@@ -2195,11 +2195,11 @@ let SiteDePrezentareComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "p", 9);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](40, "Pre\u021B: ");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "del");
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, "De la 500 de Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, "De la 600 de Euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "p", 10);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "Winter Sale -65% : De la 175 de Euro");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "M(A)y Sale -50% : De la 300 de Euro");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "p", 9);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, "Pentru func\u021Bii suplimentare pre\u021Bul se negociaz\u0103");

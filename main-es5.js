@@ -1889,7 +1889,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                 m.message = 0;
                 m.current_length = 0;
                 m.fadeBuffer = false;
-                m.messages = ['VISIOONWEBSITES', 'WINTER SALE', '65% REDUCERE SITE-URI', '65% REDUCERE PORTOFOLII', '65% REDUCERE LOGO'];
+                m.messages = ['VISIOONWEBSITES', 'M(A)y SALE', '50% DISCOUNT SITE-URI', '50% DISCOUNT PORTOFOLII', '50% DISCOUNT LOGO'];
                 setTimeout(m.animateIn, 0);
               };
 
@@ -3437,7 +3437,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "del");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "500 de lei");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "100 de euro");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -3445,7 +3445,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "p", 4);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "Winter Sale -65% : De la 175 de Lei");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "M(A)Y Sale -50% : De la 50 de euro");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4070,7 +4070,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "del");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "la 150 de Euro");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "la 200 de Euro");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4078,7 +4078,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "p", 10);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "Winter Sale -65% : De la 52 de Euro");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "M(A)y Sale -50% : De la 100 de Euro");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4152,7 +4152,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "del");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "De la 300 de Euro");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "De la 350 de Euro");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4160,7 +4160,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "p", 10);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, "Winter Sale -65% : De la 105 de Euro");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, "M(A)y Sale -50% : De la 175 de Euro");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4301,7 +4301,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "del");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "300 de Euro");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "350 de Euro");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4309,7 +4309,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "p", 10);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "Winter Sale -65% : De la 105 de Euro");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "M(A)y Sale -50% : De la 175 de Euro");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4377,7 +4377,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "del");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, "De la 500 de Euro");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, "De la 600 de Euro");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4385,7 +4385,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "p", 10);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "Winter Sale -65% : De la 175 de Euro");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "M(A)y Sale -50% : De la 300 de Euro");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
